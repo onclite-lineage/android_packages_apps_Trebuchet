@@ -1113,4 +1113,40 @@
     <icon
         drawable="@drawable/themed_icon_classroom"
         package="com.google.android.apps.classroom" />
+    <icon 
+        drawable="@drawable/dialer" 
+        package="com.android.dialer" />
+    <icon 
+        drawable="@drawable/contacts" 
+        package="com.android.contacts" />
+    <icon 
+        drawable="@drawable/messages" 
+        package="com.android.messaging" />
+    <icon 
+        drawable="@drawable/browser" 
+        package="org.lineageos.jelly" />
+    <icon 
+        drawable="@drawable/samsung_music" 
+        package="org.lineageos.eleven" />
+    <icon 
+        drawable="@drawable/calculator" 
+        package="com.android.calculator2" />
+    <icon 
+        drawable="@drawable/camera" 
+        package="org.lineageos.snap" />
+    <icon 
+        drawable="@drawable/recorder" 
+        package="org.lineageos.recorder" />
+    <icon 
+        drawable="@drawable/documents" 
+        package="com.android.documentsui" />
+    <icon 
+        drawable="@drawable/clock" 
+        package="com.android.deskclock" />
+    <icon 
+        drawable="@drawable/gallery" 
+        package="com.android.gallery3d" />
+    <icon 
+        drawable="@drawable/audiofx" 
+        package="org.lineageos.audiofx" />
 </icons>
